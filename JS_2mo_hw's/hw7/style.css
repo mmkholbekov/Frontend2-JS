@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.riddle {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+button.show-answer {
+  background-color: #45a049;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+p.answer {
+  display: none;
+}
+
+
